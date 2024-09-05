@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevMuzee
+- 👋 Hi, I’m @DevMuzeeSpark
 - 👀 I’m interested in data analysis, machine learning, and Python programming.
 - 🌱 I’m currently learning learning advanced data science techniques and improving my skills in deep learning.
 - 💞️ I’m looking to collaborate on open-source projects related to data science and Python development.
