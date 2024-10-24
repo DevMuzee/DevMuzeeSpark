@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevMuzee
-- 👀 I’m interested in data analysis, machine learning, and Python programming.
-- 🌱 I’m currently learning learning advanced data science techniques and improving my skills in deep learning.
-- 💞️ I’m looking to collaborate on open-source projects related to data science and Python development.
+- 👀 I’m interested in Data analytics 🖥️ project, machine learning 🐍, and Bioinformatics 👨‍🔬.
+- 🌱 I’m currently learning and improving my skills in ML and Bioinformatics.
+- 💞️ I’m looking to collaborate on open-source projects related to Data Science and Bioinformatics.
 - 📫 How to reach me: You can reach me via www.linkedin.com/in/abdulmuiz-adewale or email me at adewaleabdulmuiz75@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new coding challenges and finding creative solutions to complex data problems.
